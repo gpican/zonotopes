@@ -1,0 +1,22 @@
+zonotop abstract :
+bien meilleur conprehension de l'arithmetique affine et des zonotopes (comprehension du produit)
+
+
+
+
+Verification of continuous Time recurrent Neural network 
+
+
+the verification of CT RNN has not been explored a lot
+RNN are more efficient to solve problems in which there is a time relationship between the events
+
+this article proposes 2 benchmarks for the verification 
+
+1st : approximation of Fixed point Attractor
+2nd : system identification for forced damped pendulum
+
+they have simulate the 2 problems and obtained good results but they are on low dimensional CTRNN 
+
+pbm : scalability : the number of connections between neurons  increases qauadratically with the numbers of neurons.A real world neural network can contain millions of neurons.
+
+
